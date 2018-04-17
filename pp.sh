@@ -1,1 +1,1 @@
-echo "Printing git"
+echo "Printing new git"
