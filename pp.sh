@@ -1,1 +1,3 @@
-echo "Printing new git"
+cd /home/ec2-user
+mkdir blah	
+
